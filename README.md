@@ -15,6 +15,11 @@ But after some thinking and brainstorming, we thought that it would be way more 
 
 When I'm coming back to my place, I love learning new technologies and giving myself challenges. My main language is Java, mainly because I love OOP but also because it's the one I'm the most used to. I'm programming since my twelves when I was only doing Minecraft-oriented programming.  I quickly get into learning new programming languages which brought me to C#, JavaScript, PHP. 
 
+I'm pretty proud of those projects:
+
+![SCALU](https://github-readme-stats.vercel.app/api/pin?username=renardfute&repo=SCALU)
+![AppBuilder](https://github-readme-stats.vercel.app/api/pin?username=pulsedev2&repo=AppBuilder)
+
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
