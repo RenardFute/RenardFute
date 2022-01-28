@@ -17,7 +17,7 @@ When I'm coming back to my place, I love learning new technologies and giving my
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
 
 **I'm an Early 🐤** 
 
