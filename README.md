@@ -17,39 +17,15 @@ When I'm coming back to my place, I love learning new technologies and giving my
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 18 Contributions in the Year 2022
- > 
-> 📦 195.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-🌆 Daytime    55 commits     ██████████░░░░░░░░░░░░░░░   43.31% 
-🌃 Evening    41 commits     ████████░░░░░░░░░░░░░░░░░   32.28% 
-🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-Tuesday      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Wednesday    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-Friday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Saturday     19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-Sunday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05%
+🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+🌆 Daytime    57 commits     ███████████░░░░░░░░░░░░░░   44.19% 
+🌃 Evening    41 commits     ████████░░░░░░░░░░░░░░░░░   31.78% 
+🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 ```
 
@@ -57,8 +33,6 @@ Sunday       28 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -84,10 +58,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/RenardFute/RenardFute/main/charts/bar_graph.png) 
-
-
- Last Updated on 28/01/2022 15:25:08 UTC
+ Last Updated on 28/01/2022 15:32:24 UTC
 <!--END_SECTION:waka-->
