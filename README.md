@@ -17,8 +17,8 @@ When I'm coming back to my place, I love learning new technologies and giving my
 
 I'm pretty proud of those projects:
 
-![SCALU](https://github-readme-stats.vercel.app/api/pin?username=renardfute&repo=SCALU)
-![AppBuilder](https://github-readme-stats.vercel.app/api/pin?username=pulsedev2&repo=AppBuilder)
+[![SCALU](https://github-readme-stats.vercel.app/api/pin?username=renardfute&repo=SCALU)](https://github.com/renardfute/scalu)
+[![AppBuilder](https://github-readme-stats.vercel.app/api/pin?username=pulsedev2&repo=AppBuilder)](https://github.com/pulsedev2/AppBuilder)
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
