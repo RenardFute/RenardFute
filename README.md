@@ -22,6 +22,8 @@ I'm pretty proud of those projects:
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2056%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -37,18 +39,16 @@ I'm pretty proud of those projects:
 
 ```text
 💬 Programming Languages: 
-Java                     13 mins             ████████████████████████░   98.13% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ModdedMainMenu           13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
