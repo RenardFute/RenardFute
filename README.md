@@ -22,7 +22,7 @@ I'm pretty proud of those projects:
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2039%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -39,16 +39,21 @@ I'm pretty proud of those projects:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 41 mins       ████████████████████████░   99.13% 
+IDEA_MODULE              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PlanetSim                2 hrs 40 mins       ████████████████████████░   98.32% 
+processing-intellij      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
