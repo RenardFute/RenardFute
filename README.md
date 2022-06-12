@@ -24,7 +24,7 @@ I'm pretty proud of those projects:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2043%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
@@ -35,7 +35,7 @@ I'm pretty proud of those projects:
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -57,7 +57,7 @@ Windows                  4 hrs 9 mins        ███████████�
 
 ```
 
-**I Mostly Code in Java** 
+**💻 I mostly code in Java** 
 
 ```text
 Java                     15 repos            █████████████████░░░░░░░░   68.18% 
