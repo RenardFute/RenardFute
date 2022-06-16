@@ -22,7 +22,7 @@ I'm pretty proud of those projects:
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,20 +39,16 @@ I'm pretty proud of those projects:
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 37 mins        ████████████████████████░   98.87% 
-GLSL shader              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
-Wavefront OBJ File       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PulseEngine              1 hr 38 mins        █████████████████████████   99.91% 
-AgeOfCode-Client         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
