@@ -22,7 +22,7 @@ I'm pretty proud of those projects:
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
