@@ -22,7 +22,7 @@ I'm pretty proud of those projects:
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,20 +39,16 @@ I'm pretty proud of those projects:
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 mins             ███████████████░░░░░░░░░░   63.42% 
-Vue.js                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
-GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-tsconfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-APS                      22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
