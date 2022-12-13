@@ -23,4 +23,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
