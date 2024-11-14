@@ -36,17 +36,16 @@ I'm pretty proud of those projects:
 
 ```text
 💬 Programming Languages: 
-Vue.js                   13 mins             █████████████████████████   98.13 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TaskNest                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
